@@ -1,0 +1,471 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=bowie&offset=0&limit=20&type=artist",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1569298
+      },
+      "genres" : [ "album rock", "art rock", "classic funk rock", "classic rock", "dance rock", "glam rock", "mellow gold", "new wave", "permanent wave", "pop christmas", "protopunk", "rock", "singer-songwriter", "soft rock" ],
+      "href" : "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+      "id" : "0oSGxfWSnnOXhD2fKuz2Gy",
+      "images" : [ {
+        "height" : 1000,
+        "url" : "https://i.scdn.co/image/6efa04809a6358a5da0e701d24449cfb8348ebf5",
+        "width" : 1000
+      }, {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/76e50c6493a4173e5294374ae88be0ce42ed091e",
+        "width" : 640
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/c74188cfa692266ce5d61790d8b00880980bef20",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/0fc6cc36af66813555cc969755a1a30488758e2a",
+        "width" : 64
+      } ],
+      "name" : "David Bowie",
+      "popularity" : 80,
+      "type" : "artist",
+      "uri" : "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6tZFNoHyrL9GSlEW1rXoxT"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 584
+      },
+      "genres" : [ "bass trap" ],
+      "href" : "https://api.spotify.com/v1/artists/6tZFNoHyrL9GSlEW1rXoxT",
+      "id" : "6tZFNoHyrL9GSlEW1rXoxT",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/a4b2d1a4d48059818eae8ec474c77451e561d868",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/67b4861d43988d6a4f376a7358831262509d7914",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/bd8766920d5f5c67fd2dcbff2fe06f87797c5844",
+        "width" : 64
+      } ],
+      "name" : "Bowie",
+      "popularity" : 39,
+      "type" : "artist",
+      "uri" : "spotify:artist:6tZFNoHyrL9GSlEW1rXoxT"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4tV9mbi2E0rUMcyFwfO42O"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 64
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4tV9mbi2E0rUMcyFwfO42O",
+      "id" : "4tV9mbi2E0rUMcyFwfO42O",
+      "images" : [ ],
+      "name" : "Alice Bowie",
+      "popularity" : 20,
+      "type" : "artist",
+      "uri" : "spotify:artist:4tV9mbi2E0rUMcyFwfO42O"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/59zDxyoFQn3LnnzwQAy7iq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3114
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/59zDxyoFQn3LnnzwQAy7iq",
+      "id" : "59zDxyoFQn3LnnzwQAy7iq",
+      "images" : [ ],
+      "name" : "David Bowie & The Spiders From Mars",
+      "popularity" : 31,
+      "type" : "artist",
+      "uri" : "spotify:artist:59zDxyoFQn3LnnzwQAy7iq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5la43axBYQkSywaBB7QDju"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 712
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5la43axBYQkSywaBB7QDju",
+      "id" : "5la43axBYQkSywaBB7QDju",
+      "images" : [ ],
+      "name" : "Cheech And Chong with Alice Bowie",
+      "popularity" : 17,
+      "type" : "artist",
+      "uri" : "spotify:artist:5la43axBYQkSywaBB7QDju"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3r0t2sPG17gaUgXDJyJmHf"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 866
+      },
+      "genres" : [ "avant-garde jazz", "contemporary post-bop", "free improvisation", "free jazz", "jazz" ],
+      "href" : "https://api.spotify.com/v1/artists/3r0t2sPG17gaUgXDJyJmHf",
+      "id" : "3r0t2sPG17gaUgXDJyJmHf",
+      "images" : [ {
+        "height" : 1413,
+        "url" : "https://i.scdn.co/image/a01ca52c6c3bc37f6e3b295b04075414ffb8df61",
+        "width" : 1000
+      }, {
+        "height" : 905,
+        "url" : "https://i.scdn.co/image/d89b476ca6a8dbfeb565553009775a979da0ef44",
+        "width" : 640
+      }, {
+        "height" : 283,
+        "url" : "https://i.scdn.co/image/b54adb7a365140760f4ce39cd50083cd99a31024",
+        "width" : 200
+      }, {
+        "height" : 90,
+        "url" : "https://i.scdn.co/image/ab0acbd96d87305cda9448ae8603240c09faae97",
+        "width" : 64
+      } ],
+      "name" : "Lester Bowie",
+      "popularity" : 11,
+      "type" : "artist",
+      "uri" : "spotify:artist:3r0t2sPG17gaUgXDJyJmHf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/51UtELpQwhj50up5HFrpJx"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 98
+      },
+      "genres" : [ "coverchill" ],
+      "href" : "https://api.spotify.com/v1/artists/51UtELpQwhj50up5HFrpJx",
+      "id" : "51UtELpQwhj50up5HFrpJx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/cc6e3298e81bf3d88d80ef4a3f98df74bb81015f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/c4d25f71bd1a1da484bcee67401edb646c8308dd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/5f93c7751ed4d1e631f0adcb9fe15cb9257e4fc2",
+        "width" : 64
+      } ],
+      "name" : "Angie Bowie",
+      "popularity" : 23,
+      "type" : "artist",
+      "uri" : "spotify:artist:51UtELpQwhj50up5HFrpJx"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3gkjsx07pxCSh00Oyf1al9"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 137
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3gkjsx07pxCSh00Oyf1al9",
+      "id" : "3gkjsx07pxCSh00Oyf1al9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/66c5a29c3a169b2cc1f3621e9f8e744a55a0b4b4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/8cd8b28f9bc4d82244631738cdf5997f536e0cf2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/e4c076f63d1ad8da38d74e5a38f4ecea3c8cc636",
+        "width" : 64
+      } ],
+      "name" : "Korey Bowie",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:3gkjsx07pxCSh00Oyf1al9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3sKn5TxvFUPjZlMxyNmODU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3sKn5TxvFUPjZlMxyNmODU",
+      "id" : "3sKn5TxvFUPjZlMxyNmODU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/813a4903d6f7a03475ce11f2c0ac3f33523ad0e6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/5a86b17bb3fa504fd8c4ebf86bca5e098ccbdc35",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/0b3bf18d6e34295af96a816e4fec7ff177855347",
+        "width" : 64
+      } ],
+      "name" : "Angela Bowie",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3sKn5TxvFUPjZlMxyNmODU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4oAfeisxHg94H7wWT2njr4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4oAfeisxHg94H7wWT2njr4",
+      "id" : "4oAfeisxHg94H7wWT2njr4",
+      "images" : [ ],
+      "name" : "John Bowie",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:4oAfeisxHg94H7wWT2njr4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1Zon9PRaebpEyaRSBY28UA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 38
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1Zon9PRaebpEyaRSBY28UA",
+      "id" : "1Zon9PRaebpEyaRSBY28UA",
+      "images" : [ ],
+      "name" : "Joseph Bowie",
+      "popularity" : 10,
+      "type" : "artist",
+      "uri" : "spotify:artist:1Zon9PRaebpEyaRSBY28UA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1POAQqubHYqs8APatVhiSq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1POAQqubHYqs8APatVhiSq",
+      "id" : "1POAQqubHYqs8APatVhiSq",
+      "images" : [ ],
+      "name" : "Min. Bowie",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1POAQqubHYqs8APatVhiSq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5C5w4D9kLTXY2jiTyH3WBq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5C5w4D9kLTXY2jiTyH3WBq",
+      "id" : "5C5w4D9kLTXY2jiTyH3WBq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/d6a2564d8c59652dbaf0afa47ac1e5bac03f8398",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/e799447e71cb84e65c8c903cfa36d04feb44f364",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/a40801e9c9166b82851f6a83bcc8983c0669c518",
+        "width" : 64
+      } ],
+      "name" : "Marcos Bowie",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:5C5w4D9kLTXY2jiTyH3WBq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2Xm83W69UaCuOu0FoMISuU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2Xm83W69UaCuOu0FoMISuU",
+      "id" : "2Xm83W69UaCuOu0FoMISuU",
+      "images" : [ ],
+      "name" : "Bowie Twin",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2Xm83W69UaCuOu0FoMISuU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0k66LVPkCf3xPTsP5D4BDO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0k66LVPkCf3xPTsP5D4BDO",
+      "id" : "0k66LVPkCf3xPTsP5D4BDO",
+      "images" : [ ],
+      "name" : "Michael Bowie",
+      "popularity" : 4,
+      "type" : "artist",
+      "uri" : "spotify:artist:0k66LVPkCf3xPTsP5D4BDO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/26JPcrR2GoAd9mxBpm4k2z"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 78
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/26JPcrR2GoAd9mxBpm4k2z",
+      "id" : "26JPcrR2GoAd9mxBpm4k2z",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/b03b9fc683f585ebc68b076186acbaddb913c6b9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/89ea1cb7bcd31f1cd279eba2a834b922d1e7a868",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/e2b9177789d2afe1b3b3820f265eb2e4322ac50a",
+        "width" : 64
+      } ],
+      "name" : "Bowie Jane",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:26JPcrR2GoAd9mxBpm4k2z"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Bnfdb6jj2ud9STQxETiZN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 43
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4Bnfdb6jj2ud9STQxETiZN",
+      "id" : "4Bnfdb6jj2ud9STQxETiZN",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/672bb15a8e450585fe2e732dc8117c211e4e2e0e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/5ce02936af5a4947ee169307e935deb5a9b6b81a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/5b55e522f74f92a6900728607ea9b889f333f729",
+        "width" : 64
+      } ],
+      "name" : "Francis Bowie",
+      "popularity" : 2,
+      "type" : "artist",
+      "uri" : "spotify:artist:4Bnfdb6jj2ud9STQxETiZN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2kaIKREFNWEtAB1sUyjMBA"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 42
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2kaIKREFNWEtAB1sUyjMBA",
+      "id" : "2kaIKREFNWEtAB1sUyjMBA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/f10909dde1f7701ca183c0181391411011e2de80",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/485ee28efc4841a61c871e1c99828be2a0c2b2cd",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/b545a5ebd002742fc329b46079efe155362e20f6",
+        "width" : 64
+      } ],
+      "name" : "Mystic Bowie",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:2kaIKREFNWEtAB1sUyjMBA"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4U6zTFFKD4T3hfDQCfIbQC"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4U6zTFFKD4T3hfDQCfIbQC",
+      "id" : "4U6zTFFKD4T3hfDQCfIbQC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/70af41e0c9fc97662421c375ef66ff574b262fa6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/40665ee062537b18107076815158b14432a1936d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/17e2bb4533790acef34d3195cdd592a3cd5af536",
+        "width" : 64
+      } ],
+      "name" : "Bowie Peru",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4U6zTFFKD4T3hfDQCfIbQC"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7qt5OqlH0WSdWKQ0ZVQAGH"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7qt5OqlH0WSdWKQ0ZVQAGH",
+      "id" : "7qt5OqlH0WSdWKQ0ZVQAGH",
+      "images" : [ ],
+      "name" : "D. Bowie",
+      "popularity" : 6,
+      "type" : "artist",
+      "uri" : "spotify:artist:7qt5OqlH0WSdWKQ0ZVQAGH"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=bowie&offset=20&limit=20&type=artist",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 71
+  }
+}
